@@ -5,7 +5,7 @@ h1
   text-align:left;
   border-style:solid;
   border-color:black;
-  background-color:black;
+  background-color:red;
   border-width:50px;
   
 }
@@ -13,9 +13,9 @@ h2
 {
   color:yello;
   text-align:bottom;
-  background:black;
+  background:blue;
   word-spacing: 20px;
-  font-size: 50px;\
+  font-size: 50px;
   border-style:solid;
   border-width:100px;
 }
@@ -35,7 +35,7 @@ div
   border-style:solid;
   border-width:50px;
   border-left-style:solid;
-  background-color:green;
+  background-color:pink;
 }
 img
 {
