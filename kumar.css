@@ -1,0 +1,53 @@
+h1
+{
+  color:red;
+  text-align:left;
+  border-style:solid;
+  border-color:black;
+  background-color:black;
+  border-width:0px;
+  
+}
+h2
+{
+  color:blue;
+  text-align:bottom;
+  background:yellow;
+  word-spacing: 1px;
+  font-size: 1px;
+  border-style:solid;
+  border-width:10px;
+}
+div
+{
+  
+  border-style:solid;
+  border-width:5px;
+  border-left-style:solid;
+  background-color:orange;
+}
+
+
+#tu
+{
+  
+  border-style:solid;
+  border-width:5px;
+  border-left-style:solid;
+  background-color:green;
+}
+img
+{
+  align-items: right;
+  text-align:center;
+}
+.center-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-style:solid;
+  border-width:19px;
+}
+
+
+
