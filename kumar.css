@@ -6,26 +6,26 @@ h1
   border-style:solid;
   border-color:black;
   background-color:black;
-  border-width:0px;
+  border-width:50px;
   
 }
 h2
 {
-  color:blue;
+  color:yello;
   text-align:bottom;
-  background:red;
+  background:black;
   word-spacing: 20px;
-  font-size: 1px;\
+  font-size: 50px;\
   border-style:solid;
-  border-width:10px;
+  border-width:100px;
 }
 div
 {
   
   border-style:solid;
-  border-width:5px;
+  border-width:50px;
   border-left-style:solid;
-  background-color:red;
+  background-color:green;
 }
 
 
@@ -33,7 +33,7 @@ div
 {
   
   border-style:solid;
-  border-width:5px;
+  border-width:50px;
   border-left-style:solid;
   background-color:green;
 }
@@ -47,7 +47,7 @@ img
     margin-left: auto;
     margin-right: auto;
     border-style:solid;
-  border-width:19px;
+  border-width:190px;
 }
 
 */
